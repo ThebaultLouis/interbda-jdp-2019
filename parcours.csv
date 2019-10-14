@@ -1,0 +1,40 @@
+parcours,index_parcours,name,description,mdp,adresse
+Parcours 1,0,"Etape 0, l’initialisation","Pour montrer que vous avez compris le principe de l’application, veuillez entrer le mot de passe suivant : bda4ever",bda4ever,Génie industriel
+Parcours 1,0,"Etape 1, L’enquète","Un meurtre a eu lieu dans cette pièce, il vous faut trouver l’indice pour continuer l’enquète dans Grenoble.",meurtre,Génie industriel
+Parcours 1,0,"Etape 2, Le début ","Le premier indice vous a emmené à ce premier graffiti représentant le synchrotron de Grenoble, un code y est caché.",38000,8 chemin des montagnes russes
+Parcours 1,0,"Etape 2, Le début ",L’empereur César vous a envoyé un SMS : OZMVWJTM,grenoble,
+Parcours 1,0,"Etape 3, La suite","Ces baleines ne sont pas à leurs endroits habituels, qu’est ce qui a bien pu les faire partir si loin. Un code doit pouvoir vous aider. (Ne pas confondre avec le code du parcours 3)",404,26 rue des bergers
+Parcours 1,0,"Etape 3, La suite",https://res.cloudinary.com/dkxcax6es/image/upload/v1568208813/interbda/enigmemiroir.png,chartreuse,
+Parcours 1,0,"Etape 4, La continuité","Un témoin a vu quelque chose, allez le voir à son lieu de travail pour obtenir des informations.",musique,1 rue Génissieu (Ferré Musique)
+Parcours 1,0,"Etape 5, Ce qu’il se passe ensuite",Le pigeon vous a déposé un code.,42,2 Rue robert Dubarle
+Parcours 1,0,"Etape 5, Ce qu’il se passe ensuite",Mon premier est un style vestimentaire luxueux. Mon second est la première lettre de l’alphabet. Mon dernier est ce que l’on dit à un début de course. Mon tout est l’équivalent américain de Grenoble. ,chicago,
+Parcours 1,0,"Etape 6, Le questionnement","Vous avez déniché un complice du meurtrier, allez lui soutirer des informations dans sa cachette. Ça ne sera pas simple.",extorquer,1 boulevard Maréchal Lyautey (Festi Dream)
+Parcours 1,0,"Etape 7, La poursuite",Vous vous rapprochez du meurtrier mais une dernière étape vous empèche de trouver sa localisation exacte.,8080,5 Boulevard Maréchal Joffre
+Parcours 1,0,"Etape 7, La poursuite",https://res.cloudinary.com/dkxcax6es/image/upload/v1568213791/interbda/Screenshot_2019-09-11_Bienvenue_sur_Rebus-O-Matic_com_la_machine_%C3%A0_faire_des_r%C3%A9bus_1.png,goulag,
+Parcours 1,0,"Etape 8, L’arrestation",Que fait le Père Fouras ici ? Répondre à son énigme vous donnera sûrement la réponse à toutes vos questions,vieux,"Tour Perret, Parc Paul Mistral"
+Parcours 2,1,"Etape 0, l’initialisation","Pour montrer que vous avez compris le principe de l’application, veuillez entrer le mot de passe suivant : bda4ever",bda4ever,Génie industriel
+Parcours 2,1,"Etape 1, L’enquète","Un meurtre a eu lieu dans cette pièce, il vous faut trouver l’indice pour continuer l’enquète dans Grenoble.",meurtre,Génie industriel
+Parcours 2,1,"Etape 2, Le début ","Un témoin a vu quelque chose, allez le voir à son lieu de travail pour obtenir des informations.",musique à trouver,Michel musique (19 boulevard Gambetta)
+Parcours 2,1,"Etape 3, La suite","Vous avez déniché un complice du meurtrier, allez lui soutirer des informations dans sa cachette. Ça ne sera pas simple.",vinci,Games of the World (1 Rue Lakanal)
+Parcours 2,1,"Etape 4, La continuité","Cette fresque raconte l’histoire du street art, mais au milieu de cette dernière se trouve un code qui pourra vous aider.",404,"Piscine Jean Bron, Rue humbert II"
+Parcours 2,1,"Etape 4, La continuité",https://res.cloudinary.com/dkxcax6es/image/upload/v1568208813/interbda/enigmemiroir.png,chartreuse,
+Parcours 2,1,"Etape 5, Ce qu’il se passe ensuite",Donald Trump serait lié à cette affaire ? On le saura en trouvant le code. (Ne pas confondre avec le code du parcours 3),700,"parking hoche, 7 rue François Raoult"
+Parcours 2,1,"Etape 5, Ce qu’il se passe ensuite",Mon premier est un style vestimentaire luxueux. Mon second est la première lettre de l’alphabet. Mon dernier est ce que l’on dit à un début de course. Mon tout est l’équivalent américain de Grenoble. ,chicago,
+Parcours 2,1,"Etape 6, Le questionnement",Le professeur Renard aura sûrement déposé un code pour vous aider à trouver le meurtrier.,38000,12 Boulevard Maréchal Lyautey
+Parcours 2,1,"Etape 6, Le questionnement",L’empereur César vous a envoyé un SMS : OZMVWJTM,grenoble,
+Parcours 2,1,"Etape 7, La poursuite",Vous vous rapprochez du meurtrier mais une dernière étape vous empêche de trouver sa localisation exacte.,8080,5 Boulevard Maréchal Joffre
+Parcours 2,1,"Etape 7, La poursuite",https://res.cloudinary.com/dkxcax6es/image/upload/v1568213791/interbda/Screenshot_2019-09-11_Bienvenue_sur_Rebus-O-Matic_com_la_machine_%C3%A0_faire_des_r%C3%A9bus_1.png,goulag,
+Parcours 2,1,"Etape 8, L’arrestation",Que fait le Père Fouras ici ? Répondre à son énigme vous donnera sûrement la réponse à toutes vos questions,vieux,"Tour Perret, Parc Paul Mistral"
+Parcours 3,2,"Etape 0, l’initialisation","Pour montrer que vous avez compris le principe de l’application, veuillez entrer le mot de passe suivant : bda4ever",bda4ever,Génie industriel
+Parcours 3,2,"Etape 1, L’enquète","Un meurtre a eu lieu dans cette pièce, il vous faut trouver l’indice pour continuer l’enquète dans Grenoble.",meurtre,Génie industriel
+Parcours 3,2,"Etape 2, Le début ","Un témoin a vu quelque chose, allez le voir à son lieu de travail pour obtenir des informations.",peinture,"Galerie Vent des cimes, 25 Avenue Alsace Lorraine"
+Parcours 3,2,"Etape 3, La suite","Vous avez déniché un complice du meurtrier, allez lui soutirer des informations dans sa cachette. Ça ne sera pas simple.",costume,"Fêt'à Fête, 16 Avenue Alsace Lorraine"
+Parcours 3,2,"Etape 4, La continuité","L’aigle voit tout, il aura sûrement une piste pour vous, il laisse souvent des informations sous forme de code. (Ne pas confondre avec le code du parcours 1)",418,24 Rue des Bergers
+Parcours 3,2,"Etape 4, La continuité",https://res.cloudinary.com/dkxcax6es/image/upload/v1568208813/interbda/enigmemiroir.png,chartreuse,
+Parcours 3,2,"Etape 5, Ce qu’il se passe ensuite","Ce meurtre en a fait pleurer plus d’un, cette femme en larme a sûrement  tout vu, elle doit forcément avoir des informations.",38,10 Rue Doudart de Lagree
+Parcours 3,2,"Etape 5, Ce qu’il se passe ensuite",L’empereur César vous a envoyé un SMS : OZMVWJTM,grenoble,
+Parcours 3,2,"Etape 6, Le questionnement","Vous êtes le héros de cette enquête, et ce graffiti motivant vous donnera forcément une piste (Ne pas confondre avec le code du parcours 2)",90030,7 Rue François Raoult
+Parcours 3,2,"Etape 6, Le questionnement",Mon premier est un style vestimentaire luxueux. Mon second est la première lettre de l’alphabet. Mon dernier est ce que l’on dit à un début de course. Mon tout est l’équivalent américain de Grenoble. ,chicago,
+Parcours 3,2,"Etape 7, La poursuite",Le professeur Renard aura sûrement déposé un code pour vous aider à trouver le meurtrier.,38000,12 Boulevard Maréchal Lyautey
+Parcours 3,2,"Etape 7, La poursuite",https://res.cloudinary.com/dkxcax6es/image/upload/v1568213791/interbda/Screenshot_2019-09-11_Bienvenue_sur_Rebus-O-Matic_com_la_machine_%C3%A0_faire_des_r%C3%A9bus_1.png,goulag,
+Parcours 3,2,"Etape 8, L’arrestation",Que fait le Pére Fouras ici ? Répondre à son énigme vous donnera sûrement la réponse à toutes vos questions,vieux,"Tour Perret, Parc Paul Mistral"
